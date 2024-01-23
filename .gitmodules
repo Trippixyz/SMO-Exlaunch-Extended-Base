@@ -4,9 +4,6 @@
 [submodule "lib/NintendoSDK"]
 	path = lib/NintendoSDK
 	url = https://github.com/fruityloops1/nnheaders
-[submodule "lib/imgui"]
-	path = lib/imgui
-	url = https://github.com/ocornut/imgui
 [submodule "lib/OdysseyDecomp"]
 	path = lib/OdysseyDecomp
 	url = https://github.com/Trippixyz/OdysseyDecomp

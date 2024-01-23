@@ -1,7 +1,7 @@
 [submodule "lib/sead"]
 	path = lib/sead
 	url = https://github.com/open-ead/sead
-[submodule "NintendoSDK"]
+[submodule "lib/NintendoSDK"]
 	path = lib/NintendoSDK
 	url = https://github.com/fruityloops1/nnheaders
 [submodule "lib/imgui"]
